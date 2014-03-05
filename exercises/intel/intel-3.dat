@@ -1,0 +1,2 @@
+#fields	indicator	indicator_type	meta.source	meta.do_notice	meta.if_in
+fetchback.com	Intel::DOMAIN	my_special_source	T	HTTP::IN_HOST_HEADER
